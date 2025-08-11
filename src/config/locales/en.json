@@ -1,0 +1,23 @@
+{
+  "auth": {
+    "LoginTitle": "Login to your Account",
+    "LoginDesc": "See what is going on in your dashboard!",
+    "Email": "Email",
+    "Password": "Password",
+    "PasswordPlaceholder": "Enter your password",
+    "Login": "Login",
+    "EmailRequired": "Email is required",
+    "PasswordRequired": "Password is required",
+    "LoginError": "Invalid email or password",
+    "LoginLoading": "Logging in...",
+    "LoginSuccess": "Login successful"
+  },
+  "dashboard": {
+    "Title": "Dashboard",
+    "Logout": "Logout",
+    "UserInformation": "User Information",
+    "FirstName": "First Name",
+    "LastName": "Last Name",
+    "Email": "Email"
+  }
+}

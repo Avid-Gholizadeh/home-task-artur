@@ -1,0 +1,23 @@
+{
+  "auth": {
+    "LoginTitle": "Login zu Ihrem Konto",
+    "LoginDesc": "Sehen Sie, was in Ihrem Dashboard los ist!",
+    "Email": "E-Mail",
+    "Password": "Passwort",
+    "PasswordPlaceholder": "Geben Sie Ihr Passwort ein",
+    "Login": "Anmelden",
+    "EmailRequired": "E-Mail ist erforderlich",
+    "PasswordRequired": "Passwort ist erforderlich",
+    "LoginError": "Ungültige E-Mail oder Passwort",
+    "LoginLoading": "Anmelden...",
+    "LoginSuccess": "Anmeldung erfolgreich"
+  },
+  "dashboard": {
+    "Title": "Dashboard",
+    "Logout": "Abmelden",
+    "UserInformation": "Benutzerinformationen",
+    "FirstName": "Vorname",
+    "LastName": "Nachname",
+    "Email": "E-Mail"
+  }
+}
